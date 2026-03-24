@@ -34,7 +34,7 @@ Most tutorials:
 **🎁 Free Version (Included Here)**
 
 This repository includes 5 complete automation systems that you can run and test.
-https://toppon.gumroad.com/l/python-automation-starter-kit
+https://github.com/thetoppontech/python-automation-systems/releases/tag/v1.0 
 
 **🔥 Full Toolkit (Paid Version)**
 
