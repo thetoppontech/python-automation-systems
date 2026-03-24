@@ -40,7 +40,7 @@ https://toppon.gumroad.com/l/python-automation-starter-kit
 
 If you want the complete system:
 
-50+ automation systems
+35+ automation systems
 Ready-to-use configurations
 Real-world scenarios
 Structured project setups
